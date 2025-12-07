@@ -1,0 +1,5 @@
+{
+  "name": "CivicVerify Vote",
+  "description": "Une plateforme de vote citoyen qui vérifie la compréhension du sujet avant de permettre le vote.",
+  "requestFramePermissions": []
+}
